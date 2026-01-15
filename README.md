@@ -8,6 +8,6 @@ Projects
 Experience
 </center></h1>
 
-[<h3> Naval Postgraduate School: Cybersecurity Research Intern </h3>](https://nps.edu/)
 [<h3> Monterey Peninsula College: Data Engineering Intern </h3>](https://www.mpc.edu/)
-[<h3> Loaves, Fishes, and Computers: Repair Technician  </h3>](https://www.mpc.edu/)
+[<h3> Naval Postgraduate School: Cybersecurity Research Intern </h3>](https://nps.edu/)
+[<h3> Loaves, Fishes, and Computers: Repair Technician  </h3>](https://www.lfctech.org/)
