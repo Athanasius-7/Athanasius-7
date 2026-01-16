@@ -2,7 +2,7 @@
 Projects
 </center></h1>
 
-[<img src="spider.png" style="height: 7em; vertical-align: middle;">](https://github.com/Athanasius-7/Charlotte) 
+[<img src="./spider.png" style="height: 7em; vertical-align: middle;">](https://github.com/Athanasius-7/Charlotte) 
 
 <center><h1>
 Experience
