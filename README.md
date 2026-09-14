@@ -5,10 +5,4 @@ Projects
 [<img src="./CanvasSource.png" style="height: 7em; vertical-align: middle;" title="CanvasSource">](https://github.com/Athanasius-7/CanvasSource) 
 [<img src="./spider_dark.png" style="height: 7em; vertical-align: middle;" title="Charlotte">](https://github.com/Athanasius-7/Charlotte) 
 
-<center><h1>
-Experience
-</center></h1>
 
-<h3> Monterey Peninsula College: Data Engineering Intern </h3>
-<h3> Naval Postgraduate School: Cybersecurity Research Intern </h3>
-<h3> Loaves, Fishes, and Computers: Repair Technician  </h3>
