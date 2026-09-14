@@ -1,4 +1,3 @@
-About:
 cs @ cal poly
 <center><h1>
 Projects
